@@ -1,2 +1,1 @@
-# Onallo_Karacsony sia
-helo főnök
+# Onallo_Karacsony
