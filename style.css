@@ -11,6 +11,44 @@ h3 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-p {
-    text-indent: 15%;
+div {
+    margin-left: 15%;
+    margin-right: 58%;
+    text-align: justify;
+    font-size: large;
 }
+
+img {
+    height: 600px;
+    width: 800px;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+#section1 {
+    margin-top: 10%;
+    width: 20%;
+}
+
+#section2 {
+    width: 30%;
+}
+
+#section3 {
+    width: 40%;
+}
+
+#section4 {
+    width: 50%;
+    
+}
+#section5 {
+    width: 60%;
+}
+
+#section6 {
+    width: 20%;
+    margin-bottom: 10%;
+}
+
+
