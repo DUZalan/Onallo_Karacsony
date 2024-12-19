@@ -1,2 +1,2 @@
-# Onallo_Karacsony SIAAAAAAAAAAAAAAA!
+# Onallo_Karacsony
 
